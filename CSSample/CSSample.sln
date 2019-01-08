@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSSample", "CSSample.csproj", "{A718D67E-E33B-434B-8AF9-F64FBFCA0619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPCdotNETLib", "..\OPCdotNETLib\OPCdotNETLib.csproj", "{B480F0B5-938E-43C4-9BA7-F3DC1ECFD8F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A718D67E-E33B-434B-8AF9-F64FBFCA0619}.Debug.ActiveCfg = Debug|.NET
+		{A718D67E-E33B-434B-8AF9-F64FBFCA0619}.Debug.Build.0 = Debug|.NET
+		{A718D67E-E33B-434B-8AF9-F64FBFCA0619}.Release.ActiveCfg = Release|.NET
+		{A718D67E-E33B-434B-8AF9-F64FBFCA0619}.Release.Build.0 = Release|.NET
+		{B480F0B5-938E-43C4-9BA7-F3DC1ECFD8F6}.Debug.ActiveCfg = Debug|.NET
+		{B480F0B5-938E-43C4-9BA7-F3DC1ECFD8F6}.Debug.Build.0 = Debug|.NET
+		{B480F0B5-938E-43C4-9BA7-F3DC1ECFD8F6}.Release.ActiveCfg = Release|.NET
+		{B480F0B5-938E-43C4-9BA7-F3DC1ECFD8F6}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
